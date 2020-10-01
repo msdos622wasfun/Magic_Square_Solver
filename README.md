@@ -12,3 +12,5 @@ I don't know the actual formula or technique for solving them, so all the progra
 In fact, I tried this program with 4 x 4 squares instead, and it looked like the computer was going to sit there for weeks, so 3 x 3 is going to have to be the limit.
 
 Anyway, there are a couple of options you can set, and if you want you can run this program on multiple machines and observe the differences in speed.
+
+(Code::Blocks was used as the IDE.)
